@@ -15,7 +15,7 @@ I am a **Computer Science student at the University of Lagos (UNILAG) in Nigeria
 ### Tech Stack & tools
 
 **Languages**
-![Python](https://shields.io)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://shields.io)
 ![C++](https://shields.io)
 ![C#](https://shields.io)
